@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_reminder"
+        android:icon="@drawable/ic_removeimage"
+        android:title=""
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_add_image"
+        android:icon="@drawable/ic_addmedia"
+        android:title="Add Media"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_save"
+        android:icon="@drawable/ic_save"
+        android:title="Save"
+        app:showAsAction="always" />
+</menu>
